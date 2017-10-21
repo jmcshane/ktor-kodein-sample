@@ -94,6 +94,11 @@
             <artifactId>kodein-conf</artifactId>
             <version>4.1.0</version>
         </dependency>
+        <dependency>
+            <groupId>io.micrometer</groupId>
+            <artifactId>micrometer-registry-prometheus</artifactId>
+            <version>1.0.0-rc.2</version>
+        </dependency>
     </dependencies>
     <repositories>
         <repository>
